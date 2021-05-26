@@ -1,6 +1,5 @@
 package com.example.demo;
 
-import org.apache.catalina.webresources.FileResource;
 import org.springframework.core.io.FileSystemResource;
 import org.springframework.core.io.Resource;
 import org.springframework.http.HttpHeaders;
